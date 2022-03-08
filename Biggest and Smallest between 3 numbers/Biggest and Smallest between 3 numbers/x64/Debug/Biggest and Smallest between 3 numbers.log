@@ -1,0 +1,6 @@
+﻿  Biggest and Smallest between 3 numbers.cpp
+C:\Users\bianc\OneDrive\Bureau\Git_Projects\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers.cpp(19,11): warning C4101: 'max' : variable locale non référencée
+C:\Users\bianc\OneDrive\Bureau\Git_Projects\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers.cpp(19,6): warning C4101: 'min' : variable locale non référencée
+C:\Users\bianc\OneDrive\Bureau\Git_Projects\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers.cpp(34,11): warning C4101: 'max' : variable locale non référencée
+C:\Users\bianc\OneDrive\Bureau\Git_Projects\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers\Biggest and Smallest between 3 numbers.cpp(57,6): warning C4101: 'min' : variable locale non référencée
+  Biggest and Smallest between 3 numbers.vcxproj -> C:\Users\bianc\OneDrive\Bureau\Git_Projects\Biggest and Smallest between 3 numbers\x64\Debug\Biggest and Smallest between 3 numbers.exe
